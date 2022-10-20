@@ -2,4 +2,4 @@
 
 
 
-java program to manage a pharmacy 
+java program 
